@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite name="com.bridgeLbaz.RealMoodAnalyserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-25T10:37:01" hostname="admin1-desktop" time="0.002">
+<testsuite name="com.bridgeLbaz.RealMoodAnalyserTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2019-11-25T11:07:53" hostname="admin1-desktop" time="0.002">
   <properties/>
-  <testcase name="givenMoodAnlayserClass_whenProper_ReturnObject" classname="com.bridgeLbaz.RealMoodAnalyserTest" time="0.002"/>
+  <testcase name="givenMessage_WhenProper_Return_Object_Reflector" classname="com.bridgeLbaz.RealMoodAnalyserTest" time="0.002"/>
   <system-out><![CDATA[]]></system-out>
   <system-err><![CDATA[]]></system-err>
 </testsuite>
